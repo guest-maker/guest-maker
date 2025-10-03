@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 專長
-<tiger2>1</tiger2>
-<cat2>5</cat2>
+
+🔭1\
+🌱5\
 <pig2>9</pig2>
 ### 經歷
 ### 信箱
